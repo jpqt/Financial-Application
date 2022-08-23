@@ -7,22 +7,22 @@ Andrew N
 JP
 Taesung
 
-Project Description/Outline
-Portfolio Analyser? 
-Title:? FAANG Portfolio Analyzer?
-
-
-faang vs sp 500 vs btc vs gold vs index?
+SPY vs GLD index?
 
 Is this a CLI app? GUI? What would the user exp look like?
 
 User Story? 
+Client recently endowed with a small fortune($200,000),Looking to invest, would like to see whether SPY or Gold is more profitable in the long term, therefore they may choose which to invest in for the long term, or both?
 
-Typical dumb investor - Only invested in blue chip faang stocks - Allow user to compare returns with other popular investment strats.
+Client would also like to see whether SPY or Gold is more volatile, which will help choose which option to choose long term.
+
+Monte Carlo Sims must be used to forecast future earnings.
+
 
 Research Questions to Answer
 -Is bigger better? Keep it simple?
 -effect of lawsuits/regulation on big companies stock - Do big companies have more risk or less?
+
 
 ## Technologies
 The project leverages Jupyter Notebook packaged with Anaconda, with the following packages:
