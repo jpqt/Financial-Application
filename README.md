@@ -6,7 +6,6 @@ Client recently endowed with a small fortune($200,000),Looking to invest, would 
 Client would also like to see whether SPY or Gold is more volatile, which will help choose which option to choose long term.
 
 
-
 ## Technologies
 The project leverages Jupyter Notebook packaged with Anaconda, with the following packages:
 
