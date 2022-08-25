@@ -31,6 +31,10 @@ Clone GitHub Respoitories to yoour local machine
  ```
  
 # Usage
+Created a `read_csv` Dataframe from London Bullion Market Association csv File on https://data.nasdaq.com/ and dropped the excess gold valuations and kept the daily closing price of gold. Create a dataframe to split the csv to view the gold prices from 2015 till present day. create a print function with the shape to view how many data sets are in the split dataframe. post heads and tail to view if the split dataframe was valid. Finally use `sns.set` and `sns.lineplot` to plot the data from the Gold from 2015 till present day.
+
+![Seaborn LBMA](https://github.com/jpqt/Financial-Application/blob/main/Photo/lbma-history.png)
+
 
 
 
