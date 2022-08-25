@@ -1,17 +1,6 @@
-# Gold vs SPY Portfolio Analyzer - working title
+# GoldSpy Investments
+GoldSpy Investments, An up and coming investment fund management took on a small client recently, who wanted to invest a small amount of capital with them. As a beginner to the financial markets he wanted to see if Gold or the S&P500 would be more of a sound investment for the future.
 
-dup1
-
-##Team Members:
-Andrew N
-JP
-Taesung
-
-SPY vs GLD index?
-
-Is this a CLI app? GUI? What would the user exp look like?
-
-User Story? 
 Client recently endowed with a small fortune($200,000),Looking to invest, would like to see whether SPY or Gold is more profitable in the long term, therefore they may choose which to invest in for the long term, or both?
 
 Client would also like to see whether SPY or Gold is more volatile, which will help choose which option to choose long term.
@@ -36,6 +25,9 @@ The project leverages Jupyter Notebook packaged with Anaconda, with the followin
 * [json](https://github.com/topics/json?l=python) - JSON (JavaScript Object Notation) is a standard file format that uses text to communicate data objects to array data types. This notation makes it easy for applications to parse and generate files. JSON grew out of the need to have a real-time server-to-web browser communication.
 
 * [MCsimulation](https://www.investopedia.com/terms/m/montecarlosimulation.asp) - Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
+
+* [seaborn](https://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
 # Installation Guide
 
 Clone GitHub Respoitories to yoour local machine
@@ -44,15 +36,8 @@ Clone GitHub Respoitories to yoour local machine
    git clone https://github.com/jpqt/Financial-Application.git
  ```
  
-# Datasets to be Used???
+# Usage
 
-https://rapidapi.com/asepscareer/api/yahoo-finance97/
-
-https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data
-
-https://www.titan.com/
-
-https://registry.opendata.aws/
 
 
 # Rough Breakdown of Tasks
@@ -69,8 +54,10 @@ https://finance.yahoo.com/quote/GC=F?p=GC=F&.tsrc=fin-srch
 
 ## Contributers
 
-Name:Joshua Pak
+Name:Joshua Pak 
+
 Name:Andrew Niles
+
 Name:Daniel Byun
 
 ## License
