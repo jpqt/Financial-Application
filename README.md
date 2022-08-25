@@ -37,6 +37,7 @@ Created a `read_csv` Dataframe from London Bullion Market Association csv File o
 
 
 
+
 # Rough Breakdown of Tasks
 
 Andrew N: puling gold API
