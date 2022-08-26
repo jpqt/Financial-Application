@@ -1,4 +1,4 @@
-# GoldSpy Investments
+Bitcoin Spy Investments
 GoldSpy Investments, An up and coming investment fund management took on a small client recently, who wanted to invest a small amount of capital with them. As a beginner to the financial markets he wanted to see if Gold or the S&P500 would be more of a sound investment for the future.
 
 Client recently endowed with a small fortune($200,000),Looking to invest, would like to see whether SPY or Gold is more profitable in the long term, therefore they may choose which to invest in for the long term, or both?
