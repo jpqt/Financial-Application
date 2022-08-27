@@ -1,9 +1,9 @@
 Bitcoin Spy Investments
-GoldSpy Investments, An up and coming investment fund management took on a small client recently, who wanted to invest a small amount of capital with them. As a beginner to the financial markets he wanted to see if Gold or the S&P500 would be more of a sound investment for the future.
+GoldSpy Investments, An up and coming investment fund management took on a small client recently, who wanted to invest a small amount of capital with them. As a beginner to the financial markets he wanted to see if Bitcoin or the S&P500 would be more of a sound investment for the future.
 
-Client recently endowed with a small fortune($200,000),Looking to invest, would like to see whether SPY or Gold is more profitable in the long term, therefore they may choose which to invest in for the long term, or both?
+Client recently endowed with a small fortune($200,000),Looking to invest, would like to see whether SPY or Bitcoin is more profitable in the long term, therefore they may choose which to invest in for the long term, or both?
 
-Client would also like to see whether SPY or Gold is more volatile, which will help choose which option to choose long term.
+Client would also like to see whether SPY or Bitcoin is more volatile, which will help choose which option to choose long term.
 
 
 ## Technologies
@@ -30,7 +30,7 @@ Clone GitHub Respoitories to yoour local machine
  ```
  
 # Usage
-Created a `read_csv` Dataframe from London Bullion Market Association csv File on https://data.nasdaq.com/ and dropped the excess gold valuations and kept the daily closing price of gold. Create a dataframe to split the csv to view the gold prices from 2015 till present day. create a print function with the shape to view how many data sets are in the split dataframe. post heads and tail to view if the split dataframe was valid. Finally use `sns.set` and `sns.lineplot` to plot the data from the Gold from 2015 till present day.
+Created a `read_csv` Dataframe from London Bullion Market Association csv File on https://data.nasdaq.com/ and dropped the excess gold valuations and kept the daily closing price of Bitcoin. Create a dataframe to split the csv to view the Bitcoin prices from 2015 till present day. create a print function with the shape to view how many data sets are in the split dataframe. post heads and tail to view if the split dataframe was valid. Finally use `sns.set` and `sns.lineplot` to plot the data from the Bitcoin from 2015 till present day.
 
 ![Seaborn LBMA](https://github.com/jpqt/Financial-Application/blob/main/Photo/lbma-history.png)
 
@@ -45,9 +45,8 @@ Finding new UI library?
 JP: Complete user story?
 
 Taesung: 
-SPY vs Gold
-https://finance.yahoo.com/quote/SPY
-https://finance.yahoo.com/quote/GC=F?p=GC=F&.tsrc=fin-srch
+SPY vs Bitcoin
+
 
 ## Contributers
 
