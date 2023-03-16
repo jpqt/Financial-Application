@@ -1,9 +1,6 @@
 Bitcoin Spy Investments
-GoldSpy Investments, An up and coming investment fund management took on a small client recently, who wanted to invest a small amount of capital with them. As a beginner to the financial markets he wanted to see if Bitcoin or the S&P500 would be more of a sound investment for the future.
 
-Client recently endowed with a small fortune($200,000),Looking to invest, would like to see whether SPY or Bitcoin is more profitable in the long term, therefore they may choose which to invest in for the long term, or both?
-
-Client would also like to see whether SPY or Bitcoin is more volatile, which will help choose which option to choose long term.
+An investment firm, Bitcoin Spy Investments GoldSpy Investments, has taken on a new client who recently received a small fortune of $200,000 and is looking to invest. The client, a beginner to financial markets, wants to compare the potential profitability and volatility of Bitcoin and the S&P500 (represented by the ticker symbol SPY) in order to make an informed decision about which investment to choose for the long term or whether to invest in both.
 
 
 ## Technologies
